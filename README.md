@@ -5,7 +5,7 @@
 - [豆浆队](https://github.com/yinchengtsinghua/bitrunhackathon)
 - [九千零一夜](https://github.com/)
 - [皇家理工学院](https://github.com/Frankie34/NKN_codingChallenge-Eduber/)
-- [peacelove](https://github.com/)
+- [peacelove](https://github.com/wcy1231/Chain-Studio)
 - [NurTib](https://github.com/PRIEWIENV/NurTib)
 - [火币实习链](https://github.com/livc/dont-touch)
 - [BufferBlock](https://github.com/)
