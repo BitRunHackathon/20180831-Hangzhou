@@ -3,7 +3,7 @@
 
 - [ZJU-Incas](https://github.com/)
 - [豆浆队](https://github.com/yinchengtsinghua/bitrunhackathon)
-- [九千零一夜](https://github.com/)
+- [九千零一夜](https://github.com/openaichain/openaichain)
 - [皇家理工学院](https://github.com/Frankie34/NKN_codingChallenge-Eduber/)
 - [peacelove](https://github.com/wcy1231/Chain-Studio)
 - [NurTib](https://github.com/PRIEWIENV/NurTib)
