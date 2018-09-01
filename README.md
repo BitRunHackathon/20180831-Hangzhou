@@ -2,7 +2,7 @@
 20180831-20180902 Hangzhou BitRun×Canaan Hackathon
 
 - [ZJU-Incas](https://github.com/)
-- [豆浆队](https://github.com/)
+- [豆浆队](https://github.com/yinchengtsinghua/bitrunhackathon)
 - [九千零一夜](https://github.com/)
 - [皇家理工学院](https://github.com/)
 - [peacelove](https://github.com/)
