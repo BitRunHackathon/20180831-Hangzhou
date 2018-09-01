@@ -7,7 +7,7 @@
 - [皇家理工学院](https://github.com/)
 - [peacelove](https://github.com/)
 - [NurTib](https://github.com/)
-- [火币实习链](https://github.com/)
+- [火币实习链](https://github.com/livc/dont-touch)
 - [BufferBlock](https://github.com/)
 - [MetaWorld](https://github.com/)
 - [NervAct](https://github.com/greatdinosaur/nervact)
