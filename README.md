@@ -8,7 +8,7 @@
 - [peacelove](https://github.com/wcy1231/Chain-Studio)
 - [NurTib](https://github.com/PRIEWIENV/NurTib)
 - [火币实习链](https://github.com/livc/dont-touch)
-- [BufferBlock](https://github.com/)
+- [BufferBlock](https://github.com/Dearkano/BitrunHackathon)
 - [MetaWorld](https://github.com/JackyKen/BitRun-MetaWorld-DragonDapp)
 - [NervAct](https://github.com/greatdinosaur/nervact)
 - [PKUChains](https://github.com/MrPaoBrother/PKUChain)
