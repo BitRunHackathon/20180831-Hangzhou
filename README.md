@@ -10,7 +10,7 @@
 - [火币实习链](https://github.com/)
 - [BufferBlock](https://github.com/)
 - [MetaWorld](https://github.com/)
-- [NervAct](https://github.com/greatdinosaur/nervat)
+- [NervAct](https://github.com/greatdinosaur/nervact)
 - [PKUChains](https://github.com/MrPaoBrother/PKUChain)
 - [M303小分队](https://github.com/)
 - [超链大学](https://github.com/)
