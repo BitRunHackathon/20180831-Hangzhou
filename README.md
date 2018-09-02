@@ -11,7 +11,7 @@
 - [BufferBlock](https://github.com/Dearkano/BitrunHackathon)
 - [MetaWorld](https://github.com/JackyKen/BitRun-MetaWorld-DragonDapp)
 - [NervAct](https://github.com/greatdinosaur/nervact)
-- [PKUChains](https://github.com/MrPaoBrother/PKUChain)
+- [PKUChains](https://github.com/kingvern/PKUChain)
 - [M303小分队](https://github.com/Wangcankun/trace_block)
 - [超链大学](https://github.com/shenzhoudance/chaoliandaxue)
 - [eeler](https://github.com/Jonemgeo)
