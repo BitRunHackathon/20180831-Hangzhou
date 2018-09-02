@@ -1,7 +1,7 @@
 # 20180831-Hangzhou
 20180831-20180902 Hangzhou BitRun×Canaan Hackathon
 
-- [ZJU-Incas](https://github.com/)
+- [ZJU-Incas](https://github.com/ZJU-INCAS/Bitrun-upload)
 - [豆浆队](https://github.com/yinchengtsinghua/bitrunhackathon)
 - [九千零一夜](https://github.com/openaichain/AI-bitrunhackson)
 - [皇家理工学院](https://github.com/Frankie34/NKN_codingChallenge-Eduber/)
