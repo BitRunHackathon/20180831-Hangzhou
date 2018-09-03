@@ -4,11 +4,11 @@
 ## [ZJU-Incas](https://github.com/ZJU-INCAS/Bitrun-upload)
 #### 团队成员：陈建海、徐霄雯、张杰、黄诤杰、李珏宇
 #### 项目简介：
-<br>
+\<br>
 
 ## [豆浆队](https://github.com/yinchengtsinghua/bitrunhackathon)
 #### 团队成员：尤日超、尹成、叶森、朱湖美
-<br>
+\<br>
 
 ## [九千零一夜](https://github.com/openaichain/AI-bitrunhackson)
 #### 团队成员：刘茂华、廖文愉、李波
@@ -28,31 +28,38 @@
 - 提供随机数，秒级速度
 - 随机数可信、公平、可验证
 - 功能解耦，调用灵活，可以作为基础服务
-<br>
+\<br>
+
 ## [火币实习链](https://github.com/livc/dont-touch)
-#### 团队成员：李钊、钟琪、穆轲、万涔涔、孙航天
-<br>
+#### 团队成员：李钊、钟琪、穆轲、万涔涔、孙航天<br>
 ## [BufferBlock](https://github.com/Dearkano/BitrunHackathon)
 #### 团队成员：丘嘉龙、田子珺
-<br>
+\<br>
+
 ## [MetaWorld](https://github.com/JackyKen/BitRun-MetaWorld-DragonDapp)
 #### 团队成员：廖雨澄、刘书、肖毅、邓小聪、谢晋、林勤
-<br>
+\<br>
+
 ## [NervAct](https://github.com/greatdinosaur/nervact)
 #### 团队成员：蔡欣、熊彪、高学智、张伟杰
-<br>
+\<br>
+
 ## [PKUChains](https://github.com/kingvern/PKUChain)
 #### 团队成员：王凯、高力量、樊根根、黄钦印、李汶颐
-<br>
+\<br>
+
 ## [M303小分队](https://github.com/Wangcankun/trace_block)
 #### 团队成员：王灿昆、林文烁、廖泽华
-<br>
+\<br>
+
 ## [超链大学](https://github.com/shenzhoudance/chaoliandaxue)
 #### 团队成员：李港、肖威、席磊
-<br>
+\<br>
+
 ## [eeler](https://github.com/Jonemgeo)
 #### 团队成员：Jone m geo、钱朝辉
-<br>
+\<br>
+
 ## [MerChain](https://github.com/flyq/hackthon-bitrun)
 #### 团队成员：冯力全、李小莫
-<br>
+\<br>
