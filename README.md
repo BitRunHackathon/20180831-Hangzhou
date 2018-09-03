@@ -1,6 +1,10 @@
 # 20180831-Hangzhou
 20180831-20180902 Hangzhou BitRun×Canaan Hackathon
 ----
+### 本次BitRun Hackathon是BitRun组织承办的第一届Hackathon比赛，BitRun是一群对区块链对新技术有着无限热爱的年轻人创办的一个组织，创始人是浙大区块链俱乐部BitHacks创始人林梦想，联合创始人有：杨胡飞、金理杰、蔡景松、何怡雯。围绕着BitRun这个核心，我们将致力于打造BitRun Hackathon黑客马拉松系列活动，建立BitRun Forum极客技术社区，成立BitRun Incubator孵化器，打造完整的区块链技术人才发掘、能力培养、项目开发的生态体系。
+### 本次BitRun Hackathon由嘉楠耘智独家冠名支持，还得到了Nervos、NKN、VNT Chains三家国内顶级机构的技术支持。活动召集了六十多位优秀的区块链爱好者，在杭州西溪谷A|B Center进行了48h 黑客马拉松比赛，此次Hackathon共诞生了15个优秀的作品，本着极客精神，我们将所有作品公布如下：
+
+<Br/>
 ## [ZJU-Incas](https://github.com/ZJU-INCAS/Bitrun-upload) 
 ##### BitRun Block Height：0001
 #### 团队成员：陈建海、徐霄雯、张杰、黄诤杰、李珏宇
@@ -130,3 +134,18 @@
 - 灵魂链具有体验好、交互好、小圈子、泛娱乐的特点，既能让小白用户轻松体验区块链技术，又能让普通人将自己的人生故事永久的保存下来，为区块链技术落地探索现实应用场景
 - 通过设计基于NERVOS的TOKEN流通、分红、投票机制，进行社区自治，并实现了跨链技术，便于以太坊生态接入NERVOS生态
 <Br/>
+
+
+### 特别鸣谢：
+嘉楠耘智联席董事长：孔剑平
+嘉楠耘智区块链事业部副总：罗增宇
+币信CEO：吴钢
+浙江大学教授：张宏鑫
+Nervos CEO：谢晗剑
+Nervos COO：吕国宁
+云象区块链CEO：黄步添
+VNT Chains联合创始人：周峰
+NKN 联合创始人：张逸伦
+NKN CTO：王怀宇
+33复杂美CEO：吴思进
+D42创始人：
