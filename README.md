@@ -144,7 +144,7 @@
 - Nervos CEO：谢晗剑
 - Nervos COO：吕国宁
 - 云象区块链CEO：黄步添
-- VNT Chains联合创始人：周峰
+- VNT Chain 联合创始人：周峰
 - NKN 联合创始人：张逸伦
 - NKN CTO：王怀宇
 - 高度资本：薛靖中
