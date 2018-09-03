@@ -3,7 +3,11 @@
 ----
 ## [ZJU-Incas](https://github.com/ZJU-INCAS/Bitrun-upload)
 #### 团队成员：陈建海、徐霄雯、张杰、黄诤杰、李珏宇
-#### 项目简介：
+#### 项目简介：Scoser——智能合约在线服务平台
+- 可视化编程：基于Blockly的可视化开发，帮助开发者在不了解Solidity或Golang的情况下完成开发
+- 合约仓库：提供一个线上的智能合约管理仓库
+- 合约商店：基于VNT链的合约商店，用户可以在商店内发布或购买合约，交易的过程全部上链
+- 形式化验证：采用符号执行技术，挖掘合约中可能存在的漏洞，提升合约的可靠性
 <Br/>
 
 ## [豆浆队](https://github.com/yinchengtsinghua/bitrunhackathon)
@@ -23,10 +27,19 @@
 
 ## [皇家理工学院](https://github.com/Frankie34/NKN_codingChallenge-Eduber/)
 #### 团队成员：蔡源彬、朱俊诚、查文森、5sWind
+#### NKN Segment Transmission Protocol
+- 通过段/分片传输技术提高了NKN区块链网络的数据传输速度，并在此之上提升了安全性和隐私性
+- 用NKN解决了传统互联网的数据丢失问题，保证了数据的一致性
+- 加强了NKN设计的通证激励模型，使更多人能作为矿工节点加入进来，并维持区块链网络传输的负载均衡 
+- 在原有的PoR的安全性之上，通过段/分片数据传输加强安全性，防止控制节点的恶意篡改
+- 帮助增强安全+激励模型，使区块链网络积极传输和转发数据，让数据作为资产在NKN区块链上正向流通
 <Br/>
 
 ## [peacelove](https://github.com/wcy1231/Chain-Studio)
 #### 团队成员：吴超逸、高天尧
+#### 项目简介：ChainStudio
+- 一个在线的解码平台，一分钟部署合约！
+- http://studio.peacelove.io/
 <Br/>
 
 ## [NurTib](https://github.com/PRIEWIENV/NurTib)
@@ -39,6 +52,9 @@
 
 ## [火币实习链](https://github.com/livc/dont-touch)
 #### 团队成员：李钊、钟琪、穆轲、万涔涔、孙航天
+#### 项目简介：Do not Touch The Heart
+- 实际上我们切入大家的好奇心和叛逆，点击Heart，就进入了一个未知的世界，你不知道你会去到哪，就像你不知道你遇见谁会有怎样的对白
+- 这个Heart，实际上是一个竞价广告dapp
 <Br/>
 
 ## [BufferBlock](https://github.com/Dearkano/BitrunHackathon)
@@ -64,6 +80,8 @@
 
 ## [PKUChains](https://github.com/kingvern/PKUChain)
 #### 团队成员：王凯、高力量、樊根根、黄钦印、李汶颐
+#### 项目简介：BitMonkey
+- 一只可爱的小猴子的养成旅行游戏
 <Br/>
 
 ## [M303小分队](https://github.com/Wangcankun/trace_block)
@@ -81,6 +99,8 @@
 
 ## [eeler](https://github.com/Jonemgeo)
 #### 团队成员：Jone m geo、钱朝辉
+#### 项目简介：EELER ENERGY 微网管理系统
+- 解决新能源产业用户参与度低、发展缓慢，能源孤岛现象严重、交易集中、数据安全性等问题
 <Br/>
 
 ## [MerChain](https://github.com/flyq/hackthon-bitrun)
