@@ -4,6 +4,8 @@
 ## [ZJU-Incas](https://github.com/ZJU-INCAS/Bitrun-upload)
 - 团队成员：陈建海、徐霄雯、张杰、黄诤杰、李珏宇
 - 项目简介：
+>
+
 ## [豆浆队](https://github.com/yinchengtsinghua/bitrunhackathon)
 - 团队成员：尤日超、尹成、叶森、朱湖美
 
@@ -17,8 +19,8 @@
 - 团队成员：吴超逸、高天尧
 
 ## [NurTib](https://github.com/PRIEWIENV/NurTib)
-##### 团队成员：徐斌、许迪星、余欣健、邱飞旸、杨胡飞
-##### 项目简介：一个公平的基于Nervos的去中心化随机数基础设施
+#### 团队成员：徐斌、许迪星、余欣健、邱飞旸、杨胡飞
+#### 项目简介：一个公平的基于Nervos的去中心化随机数基础设施
 - 提供随机数，秒级速度
 - 随机数可信、公平、可验证
 - 功能解耦，调用灵活，可以作为基础服务
