@@ -5,18 +5,23 @@
 #### 团队成员：陈建海、徐霄雯、张杰、黄诤杰、李珏宇
 #### 项目简介：
 <br>
+
 ## [豆浆队](https://github.com/yinchengtsinghua/bitrunhackathon)
 #### 团队成员：尤日超、尹成、叶森、朱湖美
 <br>
+
 ## [九千零一夜](https://github.com/openaichain/AI-bitrunhackson)
 #### 团队成员：刘茂华、廖文愉、李波
-<br>
+\<br>
+
 ## [皇家理工学院](https://github.com/Frankie34/NKN_codingChallenge-Eduber/)
 #### 团队成员：蔡源彬、朱俊诚、查文森、5sWind
-<br>
+\<br>
+
 ## [peacelove](https://github.com/wcy1231/Chain-Studio)
 #### 团队成员：吴超逸、高天尧
-<br>
+\<br>
+
 ## [NurTib](https://github.com/PRIEWIENV/NurTib)
 #### 团队成员：徐斌、许迪星、余欣健、邱飞旸、杨胡飞
 #### 项目简介：一个公平的基于Nervos的去中心化随机数基础设施
