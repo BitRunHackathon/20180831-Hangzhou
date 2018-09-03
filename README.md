@@ -12,6 +12,7 @@
 <Br/>
 
 ## [豆浆队](https://github.com/yinchengtsinghua/bitrunhackathon)
+##### BitRun Block Height：0002
 #### 团队成员：尤日超、尹成、叶森、朱湖美
 #### 项目简介：私钥打碎加密&项目管控
 - 私钥按密码学再次打乱以便分散存储
@@ -20,6 +21,7 @@
 <Br/>
 
 ## [九千零一夜](https://github.com/openaichain/AI-bitrunhackson)
+##### BitRun Block Height：0003
 #### 团队成员：刘茂华、廖文愉、李波
 #### 项目简介：OPENAI——全民共享AI应用平台
 - 目标解决大企业垄断数据；数据集成度不够、模型授权问题；算力不足、成本过高等问题
@@ -27,6 +29,7 @@
 <Br/>
 
 ## [皇家理工学院](https://github.com/Frankie34/NKN_codingChallenge-Eduber/)
+##### BitRun Block Height：0004
 #### 团队成员：蔡源彬、朱俊诚、查文森、5sWind
 #### NKN Segment Transmission Protocol
 - 通过段/分片传输技术提高了NKN区块链网络的数据传输速度，并在此之上提升了安全性和隐私性
@@ -37,6 +40,7 @@
 <Br/>
 
 ## [peacelove](https://github.com/wcy1231/Chain-Studio)
+##### BitRun Block Height：0005
 #### 团队成员：吴超逸、高天尧
 #### 项目简介：ChainStudio
 - 是一个区块链的IDE，可以帮助用户在区块链开发时提高其效率，支持EOS、EOSJungle、VNT、NERVOS、ENU、ETH
@@ -45,6 +49,7 @@
 <Br/>
 
 ## [NurTib](https://github.com/PRIEWIENV/NurTib)
+##### BitRun Block Height：0006
 #### 团队成员：徐斌、许迪星、余欣健、邱飞旸、杨胡飞
 #### 项目简介：一个公平的基于Nervos的去中心化随机数基础设施
 - 提供随机数，秒级速度
@@ -53,6 +58,7 @@
 <Br/>
 
 ## [火币实习链](https://github.com/livc/dont-touch)
+##### BitRun Block Height：0007
 #### 团队成员：李钊、钟琪、穆轲、万涔涔、孙航天
 #### 项目简介：Do not Touch The Heart
 - 实际上我们切入大家的好奇心和叛逆，点击Heart，就进入了一个未知的世界，你不知道你会去到哪，就像你不知道你遇见谁会有怎样的对白
@@ -60,6 +66,7 @@
 <Br/>
 
 ## [BufferBlock](https://github.com/Dearkano/BitrunHackathon)
+##### BitRun Block Height：0008
 #### 团队成员：丘嘉龙、田子珺
 #### 项目简介：VolunteerX——基于Nervos的去中心化公益众筹平台
 - 通过区块链的去中心化特性，开发一个透明可信、正反馈机制、共识选择的去中心化公益众筹平台
@@ -67,12 +74,14 @@
 <Br/>
 
 ## [MetaWorld](https://github.com/JackyKen/BitRun-MetaWorld-DragonDapp)
+##### BitRun Block Height：0009
 #### 团队成员：廖雨澄、刘书、肖毅、邓小聪、谢晋、林勤
 #### 项目简介：游戏——召唤神龙Dapp
 - 很久很久以前，地球上散落着七颗神奇的龙珠，传说只要聚齐它们，神龙就会出现，并可以为集齐者实现一笔巨额财富的愿望。为了寻找龙珠，游戏玩家们纷纷踏上了奇妙的寻珠之旅。
 <Br/>
 
 ## [NervAct](https://github.com/greatdinosaur/nervact)
+##### BitRun Block Height：0010
 #### 团队成员：蔡欣、熊彪、高学智、张伟杰
 #### 项目简介：社区互动激励机制
 - 基于成员对社区的贡献，发放链上token奖励
@@ -81,6 +90,7 @@
 <Br/>
 
 ## [PKUChains](https://github.com/kingvern/PKUChain)
+##### BitRun Block Height：0011
 #### 团队成员：王凯、高力量、樊根根、黄钦印、李汶颐
 #### 项目简介：BitMonkey
 - 一只可爱的小猴子的养成旅行游戏
@@ -91,6 +101,7 @@
 <Br/>
 
 ## [M303小分队](https://github.com/Wangcankun/trace_block)
+##### BitRun Block Height：0012
 #### 团队成员：王灿昆、林文烁、廖泽华
 #### 项目简介：区块链高价值商品溯源平台
 - 打造这样的平台为了减少商品造假
@@ -98,18 +109,21 @@
 <Br/>
 
 ## [超链大学](https://github.com/shenzhoudance/chaoliandaxue)
+##### BitRun Block Height：0013
 #### 团队成员：李港、肖威、席磊
 #### 项目简介：培养企业领袖的摇篮——为全球创业者提供贴心知识服务
 - 垂直创业教育，以去中心化方式实效收益共享
 <Br/>
 
 ## [eeler](https://github.com/Jonemgeo)
+##### BitRun Block Height：0014
 #### 团队成员：Jone m geo、钱朝辉
 #### 项目简介：EELER ENERGY 微网管理系统
 - 解决新能源产业用户参与度低、发展缓慢，能源孤岛现象严重、交易集中、数据安全性等问题
 <Br/>
 
 ## [MerChain](https://github.com/flyq/hackthon-bitrun)
+##### BitRun Block Height：0015
 #### 团队成员：冯力全、李小莫
 #### 项目简介：灵魂链——一款针对95后、00后的社交产品
 - 你感到孤独吗？ 生活内外，记住所爱之人永远都很重要
