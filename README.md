@@ -12,6 +12,9 @@
 
 ## [九千零一夜](https://github.com/openaichain/AI-bitrunhackson)
 #### 团队成员：刘茂华、廖文愉、李波
+#### 项目简介：OPENAI——全民共享AI应用平台
+- 目标解决大企业垄断数据；数据集成度不够、模型授权问题；算力不足、成本过高等问题
+- 打造一个协调人工智能（生产力）、大数据（生产要素）、区块链（生产关系）三者关系的全民共享AI应用平台
 <Br/>
 
 ## [皇家理工学院](https://github.com/Frankie34/NKN_codingChallenge-Eduber/)
