@@ -31,9 +31,14 @@
 <Br/>
 
 ## [火币实习链](https://github.com/livc/dont-touch)
-#### 团队成员：李钊、钟琪、穆轲、万涔涔、孙航天<br>
+#### 团队成员：李钊、钟琪、穆轲、万涔涔、孙航天
+<Br/>
+
 ## [BufferBlock](https://github.com/Dearkano/BitrunHackathon)
 #### 团队成员：丘嘉龙、田子珺
+#### 项目简介：VolunteerX——基于Nervos的去中⼼心化公益众筹平台
+- 通过区块链的去中心化特性，开发一个透明可信、正反馈机制、共识选择的去中心化公益众筹平台
+- 通过这样一个工艺众筹平台，协调好公益组织、志愿者、投资方、受捐助方的利益关系和实际诉求
 <Br/>
 
 ## [MetaWorld](https://github.com/JackyKen/BitRun-MetaWorld-DragonDapp)
@@ -62,4 +67,8 @@
 
 ## [MerChain](https://github.com/flyq/hackthon-bitrun)
 #### 团队成员：冯力全、李小莫
+#### 项目简介：灵魂链——一款针对95后、00后的社交产品
+- 你感到孤独吗？ 生活内外，记住所爱之人永远都很重要
+- 灵魂链具有体验好、交互好、小圈子、泛娱乐的特点，既能让小白用户轻松体验区块链技术，又能让普通人将自己的人生故事永久的保存下来，为区块链技术落地探索现实应用场景
+- 通过设计基于NERVOS的TOKEN流通、分红、投票机制，进行社区自治，并实现了跨链技术，便于以太坊生态接入NERVOS生态
 <Br/>
