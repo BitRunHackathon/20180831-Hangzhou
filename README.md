@@ -38,7 +38,8 @@
 ## [peacelove](https://github.com/wcy1231/Chain-Studio)
 #### 团队成员：吴超逸、高天尧
 #### 项目简介：ChainStudio
-- 一个在线的解码平台，一分钟部署合约！
+- 是一个区块链的IDE，可以帮助用户在区块链开发时提高其效率，支持EOS、EOSJungle、VNT、NERVOS、ENU、ETH
+- 具有调试、语法高亮、智能提示、自动完成等功能
 - http://studio.peacelove.io/
 <Br/>
 
@@ -82,6 +83,10 @@
 #### 团队成员：王凯、高力量、樊根根、黄钦印、李汶颐
 #### 项目简介：BitMonkey
 - 一只可爱的小猴子的养成旅行游戏
+- 一款比旅行青蛙更好玩、可扩展性更大、用户体验更多的游戏
+- 小猴子离开的第一天，想ta
+- 小猴子离开的第二天，ta给我寄回了照片，还是想ta
+- 小猴子离开的第三天，ta什么时候回来啊，非常想ta
 <Br/>
 
 ## [M303小分队](https://github.com/Wangcankun/trace_block)
