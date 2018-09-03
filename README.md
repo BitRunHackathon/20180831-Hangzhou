@@ -8,6 +8,10 @@
 
 ## [豆浆队](https://github.com/yinchengtsinghua/bitrunhackathon)
 #### 团队成员：尤日超、尹成、叶森、朱湖美
+#### 项目简介：私钥打碎加密&项目管控
+- 私钥按密码学再次打乱以便分散存储
+- 项目投资人可以直接参与公司决策
+- 项目上线/项目动态查阅及审核/社群整合/钱包管理/私钥加密存储/私钥打碎分发
 <Br/>
 
 ## [九千零一夜](https://github.com/openaichain/AI-bitrunhackson)
@@ -39,7 +43,7 @@
 
 ## [BufferBlock](https://github.com/Dearkano/BitrunHackathon)
 #### 团队成员：丘嘉龙、田子珺
-#### 项目简介：VolunteerX——基于Nervos的去中⼼心化公益众筹平台
+#### 项目简介：VolunteerX——基于Nervos的去中心化公益众筹平台
 - 通过区块链的去中心化特性，开发一个透明可信、正反馈机制、共识选择的去中心化公益众筹平台
 - 通过这样一个工艺众筹平台，协调好公益组织、志愿者、投资方、受捐助方的利益关系和实际诉求
 <Br/>
@@ -52,6 +56,10 @@
 
 ## [NervAct](https://github.com/greatdinosaur/nervact)
 #### 团队成员：蔡欣、熊彪、高学智、张伟杰
+#### 项目简介：社区互动激励机制
+- 基于成员对社区的贡献，发放链上token奖励
+- 让社区用户可以自定义规则，实现价值交互
+- 基于用户熟悉的平台一键自动创建、部署及调用智能合约
 <Br/>
 
 ## [PKUChains](https://github.com/kingvern/PKUChain)
@@ -60,10 +68,15 @@
 
 ## [M303小分队](https://github.com/Wangcankun/trace_block)
 #### 团队成员：王灿昆、林文烁、廖泽华
+#### 项目简介：区块链高价值商品溯源平台
+- 打造这样的平台为了减少商品造假
+- 减少恶意竞争，增加良性竞争
 <Br/>
 
 ## [超链大学](https://github.com/shenzhoudance/chaoliandaxue)
 #### 团队成员：李港、肖威、席磊
+#### 项目简介：培养企业领袖的摇篮——为全球创业者提供贴心知识服务
+- 垂直创业教育，以去中心化方式实效收益共享
 <Br/>
 
 ## [eeler](https://github.com/Jonemgeo)
