@@ -1,6 +1,6 @@
 # 20180831-Hangzhou
 20180831-20180902 Hangzhou BitRun×Canaan Hackathon
-=====
+----
 - [ZJU-Incas](https://github.com/ZJU-INCAS/Bitrun-upload)
 - #团队成员：陈建海、徐霄雯、张杰、黄诤杰、李珏宇
 
