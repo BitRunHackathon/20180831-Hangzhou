@@ -32,7 +32,7 @@
 - #团队成员：蔡欣、熊彪、高学智、张伟杰
 
 ### [PKUChains](https://github.com/kingvern/PKUChain)
-- #团队成员：王凯、高力量、樊根根、黄钦印
+- #团队成员：王凯、高力量、樊根根、黄钦印、李汶颐
 
 ### [M303小分队](https://github.com/Wangcankun/trace_block)
 - #团队成员：王灿昆、林文烁、廖泽华
