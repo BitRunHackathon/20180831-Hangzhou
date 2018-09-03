@@ -4,7 +4,7 @@
 ## [ZJU-Incas](https://github.com/ZJU-INCAS/Bitrun-upload)
 #### 团队成员：陈建海、徐霄雯、张杰、黄诤杰、李珏宇
 #### 项目简介：
-\<br>
+<br>
 
 ## [豆浆队](https://github.com/yinchengtsinghua/bitrunhackathon)
 #### 团队成员：尤日超、尹成、叶森、朱湖美
