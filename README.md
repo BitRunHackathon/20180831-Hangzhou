@@ -8,11 +8,11 @@
 
 ## [豆浆队](https://github.com/yinchengtsinghua/bitrunhackathon)
 #### 团队成员：尤日超、尹成、叶森、朱湖美
-\<br>
+\
 
 ## [九千零一夜](https://github.com/openaichain/AI-bitrunhackson)
 #### 团队成员：刘茂华、廖文愉、李波
-\<br>
+\
 
 ## [皇家理工学院](https://github.com/Frankie34/NKN_codingChallenge-Eduber/)
 #### 团队成员：蔡源彬、朱俊诚、查文森、5sWind
