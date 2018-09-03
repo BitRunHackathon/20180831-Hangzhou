@@ -46,6 +46,8 @@
 
 ## [MetaWorld](https://github.com/JackyKen/BitRun-MetaWorld-DragonDapp)
 #### 团队成员：廖雨澄、刘书、肖毅、邓小聪、谢晋、林勤
+#### 项目简介：游戏——召唤神龙Dapp
+- 很久很久以前，地球上散落着七颗神奇的龙珠，传说只要聚齐它们，神龙就会出现，并可以为集齐者实现一笔巨额财富的愿望。为了寻找龙珠，游戏玩家们纷纷踏上了奇妙的寻珠之旅。
 <Br/>
 
 ## [NervAct](https://github.com/greatdinosaur/nervact)
