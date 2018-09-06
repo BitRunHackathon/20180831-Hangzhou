@@ -145,8 +145,8 @@
 - Nervos COO：吕国宁
 - 云象区块链CEO：黄步添
 - VNT Chain 联合创始人：周峰
-- NKN 联合创始人：张逸伦
-- NKN CTO：王怀宇
+- NKN Labs CTO：张逸伦
+- NKN 技术经理：王怀宇
 - 高度资本：薛靖中
 - 33复杂美CEO：吴思进
 - Nervos AppChain技术总监：段杨杨
