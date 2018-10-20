@@ -77,7 +77,7 @@
 - 通过这样一个工艺众筹平台，协调好公益组织、志愿者、投资方、受捐助方的利益关系和实际诉求
 <Br/>
 
-## [MetaWorld](https://github.com/JackyKen/BitRun-MetaWorld-DragonDapp)
+## [MetaWorld](https://github.com/demisstif/BitRun-MetaWorld-DragonDapp)
 ##### BitRun Block Height：0009
 #### 团队成员：廖雨澄、刘书、肖毅、邓小聪、谢晋、林勤
 #### 项目简介：游戏——召唤神龙Dapp
